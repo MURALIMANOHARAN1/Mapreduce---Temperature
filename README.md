@@ -1,2 +1,2 @@
-# Mapreduce---Temperature
-For the Temperature we have performed MapReduce and obtained the Min and Max Temperature Output.
+# Mapreduce--Temperature
+For the Temperature Dataset we have performed MapReduce and obtained the Min and Max Temperature Output.
